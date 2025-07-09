@@ -1,0 +1,14 @@
+h2,h4,h5 {
+    text-align: center;
+}
+
+body{
+    background-image: url("bs.png");
+    
+}
+ 
+.button-css{
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Optional spacing between buttons */
+}
