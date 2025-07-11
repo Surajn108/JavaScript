@@ -1,0 +1,11 @@
+
+body{
+    background-image: url("body.jpeg");
+    background-color: yellowgreen;
+    border:  white 2px;
+
+}
+
+button{
+    text-decoration-color: rebeccapurple;
+}
