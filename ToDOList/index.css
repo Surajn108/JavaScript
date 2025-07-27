@@ -1,0 +1,11 @@
+* {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+input,
+button {
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
